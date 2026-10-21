@@ -55,11 +55,9 @@ Developed a multi-page, interactive Power BI report to evaluate Canyon Bikes' sa
 
 ## Explore the Project
 
-- **[Open the Power BI report](https://app.powerbi.com/groups/me/reports/74afff9f-2f8b-46b9-bb01-39f9d262bcbf/99a8f5386bea473023e2?experience=power-bi)** — opens the report in Power BI; a school account or permission may be required.
-- **[Download the interactive Power BI file (.pbix)](Canyon.pbix)** — open it with Power BI Desktop to explore the report locally.
-- **[Open the project walkthrough video](Final%20Report%20-%20Canyon%20Project.mp4)** — opens the video file page on GitHub; playback behavior may vary by browser.
-
-> **Note:** Your school's administrator currently restricts the public Publish to web option, so the workspace link is not guaranteed to work for recruiters who aren't signed in or authorized. We can add a public browser-viewing link later if the restriction is lifted. The PBIX remains available as an optional download.
+- **[Open the Power BI report](https://app.powerbi.com/groups/me/reports/74afff9f-2f8b-46b9-bb01-39f9d262bcbf/99a8f5386bea473023e2?experience=power-bi)** 
+- **[Download the interactive Power BI file (.pbix)](Canyon.pbix)** 
+- **[Open the project walkthrough video](Final%20Report%20-%20Canyon%20Project.mp4)** 
 
 ## Project Reflection
 
