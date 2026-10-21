@@ -57,7 +57,8 @@ Developed a multi-page, interactive Power BI report to evaluate Canyon Bikes' sa
 
 - **[Open the Power BI report](https://app.powerbi.com/groups/me/reports/74afff9f-2f8b-46b9-bb01-39f9d262bcbf/99a8f5386bea473023e2?experience=power-bi)** 
 - **[Download the interactive Power BI file (.pbix)](Canyon.pbix)** 
-- **[Open the project walkthrough video](Final%20Report%20-%20Canyon%20Project.mp4)** 
+- **[Watch the project walkthrough video on YouTube](https://youtu.be/RZmTI6s8HKY)** — shared as an unlisted video; anyone with the link can watch it.
+- **[Download the original walkthrough video](Final%20Report%20-%20Canyon%20Project.mp4)** — optional backup download from GitHub.
 
 ## Project Reflection
 
