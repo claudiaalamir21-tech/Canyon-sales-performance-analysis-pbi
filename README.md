@@ -11,19 +11,19 @@ Developed a multi-page, interactive Power BI report to evaluate Canyon Bikes' sa
 ## Report Preview
 
 ### Custom Landing Page
-![Canyon Bikes report landing page](images/landing-page.jpg)
+![Canyon Bikes report landing page](landing-page.jpg)
 
 ### Executive Overview
-![Canyon Bikes executive overview dashboard](images/executive-overview.jpg)
+![Canyon Bikes executive overview dashboard](executive-overview.jpg)
 
 ### Product Analysis
-![Canyon Bikes product analysis dashboard](images/product-analysis.jpg)
+![Canyon Bikes product analysis dashboard](product-analysis.jpg)
 
 ### Customer Analysis
-![Canyon Bikes customer analysis dashboard](images/customer-analysis.jpg)
+![Canyon Bikes customer analysis dashboard](customer-analysis.jpg)
 
 ### Recommendations
-![Canyon Bikes recommendations page](images/recommendations.jpg)
+![Canyon Bikes recommendations page](recommendations.jpg)
 
 ## Report Structure
 
@@ -62,15 +62,16 @@ Developed a multi-page, interactive Power BI report to evaluate Canyon Bikes' sa
 
 ## Project Deliverables
 
-- [Download the interactive Power BI report (.pbix)](Canyon.pbix)
-- [Watch the report walkthrough](Final%20Report%20-%20Canyon%20Project.mp4)
-- Executive sales performance overview
-- Dedicated product and customer analysis pages
-- Recommendations page
-- Custom landing page with report navigation
+- [Download the full interactive Power BI report (.pbix)](Canyon.pbix)
+- [Watch the final report walkthrough](Final%20Report%20-%20Canyon%20Project.mp4)
 
 > **Note:** GitHub does not render Power BI reports directly in the browser. Download the .pbix file and open it with Microsoft Power BI Desktop to explore the interactive report.
 
 ## Project Reflection
 
 This project strengthened my ability to transform business requirements into an interactive business intelligence report. It provided practical experience with Power Query, DAX, data modeling, and multi-page report design while developing my ability to translate analytical findings into actionable business recommendations.
+
+## About Me
+
+**Claudia Al-Amir** | Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/claudia-al-amir-131199424) · [Email](mailto:claudiaalamir21@gmail.com)
