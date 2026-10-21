@@ -10,20 +10,13 @@ Developed a multi-page, interactive Power BI report to evaluate Canyon Bikes' sa
 
 ## Report Preview
 
-### Custom Landing Page
-![Canyon Bikes report landing page](landing-page.jpg)
+| Executive Overview | Product Analysis |
+|:---:|:---:|
+| [![Executive Overview](executive-overview.jpg)](executive-overview.jpg) | [![Product Analysis](product-analysis.jpg)](product-analysis.jpg) |
+| Customer Analysis | Recommendations |
+| [![Customer Analysis](customer-analysis.jpg)](customer-analysis.jpg) | [![Recommendations](recommendations.jpg)](recommendations.jpg) |
 
-### Executive Overview
-![Canyon Bikes executive overview dashboard](executive-overview.jpg)
-
-### Product Analysis
-![Canyon Bikes product analysis dashboard](product-analysis.jpg)
-
-### Customer Analysis
-![Canyon Bikes customer analysis dashboard](customer-analysis.jpg)
-
-### Recommendations
-![Canyon Bikes recommendations page](recommendations.jpg)
+[View the custom landing-page screenshot](landing-page.jpg)
 
 ## Report Structure
 
@@ -60,12 +53,13 @@ Developed a multi-page, interactive Power BI report to evaluate Canyon Bikes' sa
 - Product, customer, and return analysis
 - Business recommendations and analytical storytelling
 
-## Project Deliverables
+## Explore the Project
 
-- [Download the full interactive Power BI report (.pbix)](Canyon.pbix)
-- [Watch the final report walkthrough](Final%20Report%20-%20Canyon%20Project.mp4)
+- **[Open the Power BI report](https://app.powerbi.com/groups/me/reports/74afff9f-2f8b-46b9-bb01-39f9d262bcbf/99a8f5386bea473023e2?experience=power-bi)** — opens the report in Power BI; a school account or permission may be required.
+- **[Download the interactive Power BI file (.pbix)](Canyon.pbix)** — open it with Power BI Desktop to explore the report locally.
+- **[Open the project walkthrough video](Final%20Report%20-%20Canyon%20Project.mp4)** — opens the video file page on GitHub; playback behavior may vary by browser.
 
-> **Note:** GitHub does not render Power BI reports directly in the browser. Download the .pbix file and open it with Microsoft Power BI Desktop to explore the interactive report.
+> **Note:** Your school's administrator currently restricts the public Publish to web option, so the workspace link is not guaranteed to work for recruiters who aren't signed in or authorized. We can add a public browser-viewing link later if the restriction is lifted. The PBIX remains available as an optional download.
 
 ## Project Reflection
 
